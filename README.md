@@ -3,7 +3,7 @@
 [npm-url]:  https://www.npmjs.com/
 
 <p align="center">
-   <img src="./.github/web-landing.png" alt="MissionComplete" width="650" height="310"/>
+   <img src="./.github/nlw.png" alt="MissionComplete" width="450" height="310"/>
 </p>
 
 <p align="center">	
@@ -73,13 +73,6 @@ To start the Server run the command
 ```ps
 $ yarn dev
 ```
-
-## Web Preview
-<div>
-   
-   <img src="./.github/web-list.png" width="400px">
-</div>
-
 
 # :closed_book: License
 
